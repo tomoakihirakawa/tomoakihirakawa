@@ -1,7 +1,7 @@
 <details>
-<summary>目次</summary>
+<summary>研究室紹介</summary>
 
-# 研究室紹介を兼ねて
+# 研究室紹介
 
 ## 自己紹介
 
