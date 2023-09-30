@@ -1,3 +1,6 @@
+<details>
+<summary>目次</summary>
+
 # 研究室紹介を兼ねて
 
 ## 自己紹介
@@ -8,7 +11,6 @@
 PCはMacを使っていて，学生にもMacを使ってもらっています．たまに計算でLinuxも使います．
 
 ## 研究と開発
-
 
 [浮体式洋上風力発電](https://en.wikipedia.org/wiki/Floating_wind_turbine)に関する研究を行っています．
 現在の目標は，多くの浮体を含めウィンドファーム全領域をシミュレートするソフトウェアを開発することです．
@@ -39,3 +41,5 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
 - 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa)
+
+</details>
