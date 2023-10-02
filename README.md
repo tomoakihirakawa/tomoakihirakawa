@@ -1,5 +1,5 @@
 <details>
-<summary>研究室紹介</summary>
+<summary>研究紹介</summary>
 
 ## 👦 自己紹介
 
