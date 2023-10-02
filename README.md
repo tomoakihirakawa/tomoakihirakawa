@@ -17,14 +17,12 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 
 ### 境界要素法を使った浮体動揺解析ソフト
 
+- 説明: 境界要素法は，流体の運動方程式を流体境界上で解く手法です．
+- リンク: [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md)
+- 使用言語: C++, Python
 
-<table cellspacing="0" cellpadding="20" border="1">
+<table cellspacing="0" cellpadding="20" border="1" align="center">
   <tr>
-    <td align="left">
-        <li> 説明: 境界要素法は，流体の運動方程式を流体境界上で解く手法です </li>
-        <li> リンク: <a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md" target="_blank">build_bem</a> </li>
-        <li> 使用言語: C++, Python </li>
-    </td>
     <td align="center" bgcolor="#f2f2f2">
       <strong>Sample 0</strong><br>
       <img src="sample0.gif" width="320px" alt="Sample 0 Image">
