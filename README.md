@@ -21,6 +21,19 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 - リンク: [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md)
 - 使用言語: C++, Python
 
+<table cellspacing="0" cellpadding="20" border="1">
+  <tr>
+    <td align="center" bgcolor="#f2f2f2">
+      <strong>Sample 0</strong><br>
+      <img src="sample0.gif" width="320px" alt="Sample 0 Image">
+    </td>
+    <td align="center" bgcolor="#f2f2f2">
+      <strong>Sample 1</strong><br>
+      <img src="sample1.gif" width="320px" alt="Sample 1 Image">
+    </td>
+  </tr>
+</table>
+
 ### 粒子法を使った流体物体相互作用解析ソフト
 
 - 説明: 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です．
