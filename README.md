@@ -17,7 +17,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 
 ### 境界要素法を使った浮体動揺解析ソフト
 
-<div background-color="white">
+<div border="3" bordercolor="white">
 
 - 説明: 境界要素法は，流体の運動方程式を流体境界上で解く手法です．
 - リンク: [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md)
