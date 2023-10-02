@@ -21,7 +21,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 - リンク: [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md)
 - 使用言語: C++, Python
 
-<table cellspacing="0" cellpadding="20" border="2" align="center">
+<table border="2" align="center">
   <tr>
     <td align="center">
       <strong>Sample 0</strong><br>
