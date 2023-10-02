@@ -34,18 +34,20 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 既に多くの手法が開発されており，学ぶことがとても多いです．
 
 <table border="1" cellspacing="0" cellpadding="0" width="200" align="center">
+
 <tr>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_integration/README.md">関数の積分</a></td>
 <td>関数の微分</td>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_root_finding/README.md">方程式の根を求める</a></td>
-<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_root_finding/README.md">方程式の根を求める</a></td>
-</tr>
-<tr>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_system_of_linear_equations/README.md">線形方程式の解法</a></td>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_eigen_value/README.md">固有値問題の解法</a></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_ODE/README.md">常微分方程式の解法</a></td>
 <td>偏微分方程式の解法</td>
 </tr>
+
 </table>
 
 以上の問題は，あらゆる分野で見られるため，数値解析手法を学ぶことはとても有用です．
