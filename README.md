@@ -46,7 +46,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_system_of_linear_eqs/README.md">線形方程式の解法</a>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_ODE/README.md">常微分方程式の解法</a></td>
 <td>偏微分方程式の解法</td>
-<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_Network/README.md">幾何学（格子生成/細分化/データ構造）</a>
+<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_Network/README.md">幾何学（格子生成/データ構造）</a>
 </td>
 </tr>
 
