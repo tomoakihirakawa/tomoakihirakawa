@@ -20,7 +20,17 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 * 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
 * リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
 
-<img src="sample0.gif" width="220px" alt="Sample 0 Image"> <img src="sample1.gif" width="220px" alt="Sample 1 Image">|
+<table border="2" width="500" cellspacing="0" cellpadding="5" bordercolor="#333333" style="border-collapse:collapse;">
+<tr>
+<td>
+<img src="sample0.gif" width="220px" alt="Sample 0 Image">
+</td>
+<td>
+<img src="sample1.gif" width="220px" alt="Sample 1 Image">
+</td>
+</tr>
+</table>
+
 
 ### 粒子法を使った流体物体相互作用解析ソフト
 
@@ -49,7 +59,6 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_Network/README.md">幾何学（格子生成/データ構造）</a>
 </td>
 </tr>
-
 </table>
 
 以上の問題は，あらゆる分野で見られるため，数値解析手法を学ぶことはとても有用です．
