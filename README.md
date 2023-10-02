@@ -20,7 +20,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 * 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
 * リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
 
-<table border="2" width="500" cellspacing="0" cellpadding="5" bordercolor="#333333" style="border-collapse:collapse;">
+<table width="500" cellspacing="0" cellpadding="5" bordercolor="#333333" style="border-collapse:collapse;border:2;">
 <tr>
 <td>
 <img src="sample0.gif" width="220px" alt="Sample 0 Image">
