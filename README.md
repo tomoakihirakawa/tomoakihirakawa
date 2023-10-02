@@ -33,7 +33,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 基本的な**数値解析手法**は，数学とプログラミングを組み合わせ，以下の様な問題を解くものです．
 既に多くの手法が開発されており，学ぶことがとても多いです．
 
-<table border="1">
+<table border="1" cellspacing="0" cellpadding="0" width="200" align="center">
 <tr>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_integration/README.md">関数の積分</a></td>
 <td>関数の微分</td>
