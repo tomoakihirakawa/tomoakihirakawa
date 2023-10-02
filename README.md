@@ -33,7 +33,14 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 基本的な**数値解析手法**は，数学とプログラミングを組み合わせ，以下の様な問題を解くものです．
 既に多くの手法が開発されており，学ぶことがとても多いです．
 
-データの補間・関数の積分・関数の微分・方程式の根を求める・線形方程式の解法・固有値問題の解法・常微分方程式の解法・偏微分方程式の解法
+[データの補間](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_interpolation/README.md)
+[関数の積分](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_integration/README.md)
+[関数の微分]()
+[方程式の根を求める](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_root_finding/README.md)
+[線形方程式の解法](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_system_of_linear_equations/README.md)
+[固有値問題の解法](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_eigen_value/README.md)
+[常微分方程式の解法](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_ODE/README.md)
+[偏微分方程式の解法]()
 
 以上の問題は，あらゆる分野で見られるため，数値解析手法を学ぶことはとても有用です．
 
