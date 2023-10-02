@@ -35,7 +35,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 
 <table border="1" cellspacing="0" cellpadding="0" width="200" align="center">
 <tr>
-<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_intepolation/README.md">関数近似 データ補間</a></td>
+<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_intepolation/README.md">関数近似/補間</a></td>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_integration/README.md">関数の積分</a></td>
 <td>関数の微分</td>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_root_finding/README.md">方程式の根を求める</a></td>
