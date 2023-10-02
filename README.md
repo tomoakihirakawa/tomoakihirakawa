@@ -22,20 +22,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 | 説明 | 境界要素法は，流体の運動方程式を流体境界上で解く手法です |
 | 使用言語 | C++, Python |
 | リンク | [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) |
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Sample 0</strong><br>
-      <img src="sample0.gif" width="320px" alt="Sample 0 Image">
-    </td>
-    <td align="center">
-      <strong>Sample 1</strong><br>
-      <img src="sample1.gif" width="320px" alt="Sample 1 Image">
-    </td>
-  </tr>
-</table>
-
+| 例 |  <img src="sample0.gif" width="320px" alt="Sample 0 Image"> <img src="sample1.gif" width="320px" alt="Sample 1 Image">|
 ### 粒子法を使った流体物体相互作用解析ソフト
 
 |||
