@@ -61,9 +61,9 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 反対に言えば，この研究を通して，力学・数学・プログラミングを正確に学んでいくことができます．
 私にとって，これがこの研究の魅力です．
 
-## ✉️ 連絡先
+<!-- ## ✉️ 連絡先
 
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
-- 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa)
+- 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa) -->
 
 </details>
