@@ -25,11 +25,9 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 
 ### 粒子法を使った流体物体相互作用解析ソフト
 
-|||
-|---:|:---|
-| 説明 | 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です |
-| 使用言語 | C++, Python |
-| リンク | [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md) |
+* 説明 : 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です
+* 使用言語 : C++, Python
+* リンク : [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)
 
 ## 数値解析を中心とした研究の魅力
 
