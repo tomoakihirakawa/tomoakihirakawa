@@ -17,7 +17,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 ### 境界要素法を使った浮体動揺解析ソフト
 
 * 説明 : 境界要素法は，流体の運動方程式を流体境界上で解く手法です 
-* 使用言語 : C++, Python 
+* 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
 * リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
 
 <img src="sample0.gif" width="320px" alt="Sample 0 Image"> <img src="sample1.gif" width="320px" alt="Sample 1 Image">|
@@ -25,7 +25,7 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 ### 粒子法を使った流体物体相互作用解析ソフト
 
 * 説明 : 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です
-* 使用言語 : C++, Python
+* 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
 * リンク : [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)
 
 ## 👩‍💻 数値解析を中心とした研究の魅力
