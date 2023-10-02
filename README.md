@@ -23,11 +23,11 @@ PCはMacを使っていて，学生にもMacを使ってもらっています．
 
 <table cellspacing="0" cellpadding="20" border="2" align="center">
   <tr>
-    <td align="center" bgcolor="#f2f2f2">
+    <td align="center">
       <strong>Sample 0</strong><br>
       <img src="sample0.gif" width="320px" alt="Sample 0 Image">
     </td>
-    <td align="center" bgcolor="#f2f2f2">
+    <td align="center">
       <strong>Sample 1</strong><br>
       <img src="sample1.gif" width="320px" alt="Sample 1 Image">
     </td>
