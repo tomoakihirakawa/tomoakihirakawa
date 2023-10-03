@@ -30,11 +30,10 @@
 [浮体式洋上風力発電](https://en.wikipedia.org/wiki/Floating_wind_turbine)に関する研究を行っています．
 現在の目標は，多くの浮体を含めウィンドファーム全領域をシミュレートする実用的なソフトウェアを開発することです．
 
-#### 境界要素法を使った浮体動揺解析ソフト
-
-* 説明 : 境界要素法は，流体の運動方程式を流体境界上で解く手法です 
-* 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
-* リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
+* 境界要素法を使った浮体動揺解析ソフト
+    - 説明 : 境界要素法は，流体の運動方程式を流体境界上で解く手法です 
+    - 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
+    - リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
 
 <table style="border-collapse:collapse;border:2;cellspacing:5;cellpadding:5;">
 <tr>
@@ -47,12 +46,10 @@
 </tr>
 </table>
 
-
-#### 粒子法を使った流体物体相互作用解析ソフト
-
-* 説明 : 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です
-* 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
-* リンク : [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)
+* 粒子法を使った流体物体相互作用解析ソフト
+    - 説明 : 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です
+    - 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
+    - リンク : [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)
 
 ### 👩‍💻 数値解析を中心とした研究の魅力
 
