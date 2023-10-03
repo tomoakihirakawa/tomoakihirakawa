@@ -60,7 +60,7 @@
 基本的な**数値解析手法**は，数学とプログラミングを組み合わせ，以下の様な問題を解くものです．
 既に多くの手法が開発されており，学ぶことがとても多いです．
 
-<table border="1" cellspacing="0" cellpadding="0" width="200" align="center">
+<table style="border-collapse:collapse;border:2;cellspacing:5;cellpadding:5;">
 <tr>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_intepolation/README.md">関数近似/補間</a></td>
 <td>←関数の微分</td>
