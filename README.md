@@ -114,9 +114,10 @@
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
 - 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa) -->
 
-<details>
-<summary>🌬️グリーンエネルギーとウィンドファーム：全世界で進行中のプロジェクト一覧 🌏🍃</summary>
+</details>
 
+<details>
+<summary>** 🌬️グリーンエネルギーとウィンドファーム：全世界で進行中のプロジェクト一覧 🌏🍃 **</summary>
 
 |プロジェクト詳細🌟|リンク🔗|備考📝|
 |:----------------|:-------|:-----|
@@ -128,7 +129,5 @@
 |🇯🇵 **NEDO委託**でバージ型浮体の研究開発が進行| [NEDO](https://www.nedo.go.jp/floating/)|科学研究による進展|
 |🇺🇸 **NREL**（米国再生可能エネルギー研究所）は，アメリカエネルギー省の研究機関| [NREL](https://www.nrel.gov/wind/offshore-wind.html),[OpenFAST](https://github.com/OpenFAST)|アメリカにおける研究活動|
 |🌍 **多数の企業**が低コスト化を目標に研究開発進行中| [J-Power](https://www.jpower.co.jp/news_release/2023/05/news230530.html)|コスト削減の取り組み|
-
-</details>
 
 </details>
