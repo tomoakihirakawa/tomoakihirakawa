@@ -114,16 +114,19 @@
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
 - 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa) -->
 
-### 🌬️　　浮体式洋上風力発電に関するリンク
+### 🌬️グリーンエネルギーとウィンドファーム：全世界で進行中のプロジェクト一覧 🌏🍃
 
-|説明|リンク|
-|:---------|-|
-|HywindTanpenはノルウェーにある現在世界最大の浮体式洋上ウィンドファーム|https://www.equinor.com/energy/hywind-tampen|
-|戸田建設は五島福江島にウィンドファームを建設する予定|https://www.toda.co.jp/business/ecology/special/|
-|BW ideolはバージ型浮体の動揺を抑えるダンピングプールの特許を保有するフランス企業|https://bw-ideol.com/en|
-|NEDOの委託を受けて日本でもバージ型浮体の研究開発が行われてきました|https://www.nedo.go.jp/floating/|
-|アメリカのエネルギー省も浮体式の研究開発を活発に行っています|https://www.nrel.gov/wind/offshore-wind.html|
-|その他様々な企業が低コスト化を目標に研究開発を進めています|https://www.jpower.co.jp/news_release/2023/05/news230530.html|
+---
 
+|プロジェクト詳細🌟|リンク🔗|備考📝|
+|:----------------|:-------|:-----|
+|🇯🇵 **秋田県南部沖**で実証事業の候補地に選定！| [YouTube](https://www.youtube.com/watch?v=b8zqJr4L4MI), [NHK](https://www3.nhk.or.jp/lnews/akita/20231003/6010019188.html)|日本国内での先進的な取り組み|
+|🇬🇧 **スコットランドのグリーンエネルギー**が日本に進出| [YouTube](https://www.youtube.com/watch?v=oPx5OxBef0A)|国際的な協力の例|
+|🇳🇴 **Hywind Tampen**は世界最大の浮体式洋上ウィンドファーム| [Equinor](https://www.equinor.com/energy/hywind-tampen)|ノルウェーでの巨大プロジェクト|
+|🇯🇵 **戸田建設**、五島福江島にウィンドファーム建設予定| [Toda Corp](https://www.toda.co.jp/business/ecology/special/)|国内企業による新規プロジェクト|
+|🇫🇷 **BW Ideol**はダンピングプールによる動揺抑制技術を特許| [BW Ideol](https://bw-ideol.com/en)|革新的なフランス企業|
+|🇯🇵 **NEDO委託**でバージ型浮体の研究開発が進行| [NEDO](https://www.nedo.go.jp/floating/)|科学研究による進展|
+|🇺🇸 **米国エネルギー省**、浮体式の研究開発を活発化| [NREL](https://www.nrel.gov/wind/offshore-wind.html)|アメリカにおける研究活動|
+|🌍 **多数の企業**が低コスト化を目標に研究開発進行中| [J-Power](https://www.jpower.co.jp/news_release/2023/05/news230530.html)|コスト削減の取り組み|
 
 </details>
