@@ -120,7 +120,7 @@
 
 |プロジェクト詳細🌟|リンク🔗|備考📝|
 |:----------------|:-------|:-----|
-|🇯🇵 **秋田県南部沖**で実証事業の候補地に選定！| [YouTube](https://www.youtube.com/watch?v=b8zqJr4L4MI), [NHK](https://www3.nhk.or.jp/lnews/akita/20231003/6010019188.html)|日本国内での先進的な取り組み|
+|🇯🇵 **秋田県南部沖**で実証事業の候補地に選定！| <a href="https://www.youtube.com/watch?v=b8zqJr4L4MI" target="_blank">YouTube</a>, <a href="https://www3.nhk.or.jp/lnews/akita/20231003/6010019188.html" target="_blank">NHK</a> |日本国内での先進的な取り組み|
 |🇬🇧 **スコットランドのグリーンエネルギー**が日本に進出| [YouTube](https://www.youtube.com/watch?v=oPx5OxBef0A)|国際的な協力の例|
 |🇳🇴 **Hywind Tampen**は世界最大の浮体式洋上ウィンドファーム| [Equinor](https://www.equinor.com/energy/hywind-tampen)|ノルウェーでの巨大プロジェクト|
 |🇯🇵 **戸田建設**、五島福江島にウィンドファーム建設予定| [Toda Corp](https://www.toda.co.jp/business/ecology/special/)|国内企業による新規プロジェクト|
