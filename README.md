@@ -116,6 +116,8 @@
 
 </details>
 
+---
+
 <details>
 <summary> 🌬️世界の浮体式洋上風力発電のプロジェクト一覧🌏🍃</summary>
 
