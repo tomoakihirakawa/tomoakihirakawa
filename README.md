@@ -44,15 +44,6 @@
 主に[浮体式洋上風力発電](https://en.wikipedia.org/wiki/Floating_wind_turbine)に関する研究を行っています．
 浮体の動揺や係留索に関連する数値シミュレーションの需要は，今後増えていくと考えられます．
 
-|説明|リンク|
-|:---------|-|
-|HywindTanpenはノルウェーにある現在世界最大の浮体式洋上ウィンドファーム|https://www.equinor.com/energy/hywind-tampen|
-|戸田建設は五島福江島にウィンドファームを建設する予定|https://www.toda.co.jp/business/ecology/special/|
-|BW ideolはバージ型浮体の動揺を抑えるダンピングプールの特許を保有するフランス企業|https://bw-ideol.com/en|
-|NEDOの委託を受けて日本でもバージ型浮体の研究開発が行われてきました|https://www.nedo.go.jp/floating/|
-|アメリカのエネルギー省も浮体式の研究開発を活発に行っています|https://www.nrel.gov/wind/offshore-wind.html|
-|その他様々な企業が低コスト化を目標に研究開発を進めています|https://www.jpower.co.jp/news_release/2023/05/news230530.html|
-
 現在すでに[OrcaFlex](https://www.orcina.com/)や[WAMIT](https://www.wamit.com/)といった商用ソフトウェアがありますが，
 現在の目標は，多くの浮体を含めウィンドファーム全領域をシミュレートできる
 計算手法を提案することと，実用的なソフトウェアを開発することです．
@@ -122,5 +113,17 @@
 
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
 - 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa) -->
+
+### 浮体式洋上風力発電に関するリンク
+
+|説明|リンク|
+|:---------|-|
+|HywindTanpenはノルウェーにある現在世界最大の浮体式洋上ウィンドファーム|https://www.equinor.com/energy/hywind-tampen|
+|戸田建設は五島福江島にウィンドファームを建設する予定|https://www.toda.co.jp/business/ecology/special/|
+|BW ideolはバージ型浮体の動揺を抑えるダンピングプールの特許を保有するフランス企業|https://bw-ideol.com/en|
+|NEDOの委託を受けて日本でもバージ型浮体の研究開発が行われてきました|https://www.nedo.go.jp/floating/|
+|アメリカのエネルギー省も浮体式の研究開発を活発に行っています|https://www.nrel.gov/wind/offshore-wind.html|
+|その他様々な企業が低コスト化を目標に研究開発を進めています|https://www.jpower.co.jp/news_release/2023/05/news230530.html|
+
 
 </details>
