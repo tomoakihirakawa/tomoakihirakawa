@@ -25,10 +25,10 @@
 自分のやりたいことがある学生には，それに沿った研究をしてもらっています．
 それ以外の学生は，以下のようなテーマを中心に研究を進めています．
 
-- 境界要素法（BEM-MEL）の高効率化
+- 境界要素法（BEM-MEL）の高効率化（[Longuet-Higgins](https://en.wikipedia.org/wiki/Michael_S._Longuet-Higgins)が発案した方法でかなりいいところまで来ている気がします）
 - 境界要素法（BEM-MEL）を使ったバージ型浮体の動揺解析
 - 陽解法型SPH（EISPH）の開発
-- 水棲動物の効率的な遊泳法に関する研究
+- 水棲動物の効率的な遊泳法に関する研究（[James Lighthill](https://en.wikipedia.org/wiki/James_Lighthill)も関心があった内容なので個人的にはもっとやりたい内容です）
 
 ## 👤 自己紹介
 
