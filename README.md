@@ -114,7 +114,7 @@
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
 - 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa) -->
 
-### 浮体式洋上風力発電に関するリンク
+### 🌬️ 浮体式洋上風力発電に関するリンク
 
 |説明|リンク|
 |:---------|-|
