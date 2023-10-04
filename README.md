@@ -28,7 +28,7 @@
 - 境界要素法（BEM-MEL）の高効率化（[Longuet-Higgins](https://en.wikipedia.org/wiki/Michael_S._Longuet-Higgins)が発案した方法です）
 - 境界要素法（BEM-MEL）を使ったバージ型浮体の動揺解析
 - 陽解法型SPH（EISPH）の開発
-- 🐡水棲動物の効率的な遊泳法に関する研究（[Lighthill](https://en.wikipedia.org/wiki/James_Lighthill)も関心があった内容なのでもっとやりたい内容ですが，学生任せになっています）
+- 🐡水棲動物の遊泳効率に関する研究（[Lighthill](https://en.wikipedia.org/wiki/James_Lighthill)も関心があった内容なのでもっとやりたい内容ですが，学生任せになっています）
     * 実際に魚のように動くロボットを作成して，その遊泳効率を実験で調べようとしています
     * 魚の学校🐟🐠🐡を数値シミュレーションも行っています
 
