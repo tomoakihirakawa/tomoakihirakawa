@@ -82,7 +82,7 @@
 
 <table style="border-collapse:collapse;border:2;cellspacing:5;cellpadding:5;">
 <tr>
-<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_intepolation/README.md">関数近似/補間</a></td>
+<td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_interpolation/README.md">関数近似/補間</a></td>
 <td>←関数の微分</td>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_integration/README.md">関数の積分</a></td>
 <td><a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_root_finding/README.md">方程式の根を求める</a></td>
