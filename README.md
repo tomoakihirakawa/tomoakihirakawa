@@ -45,7 +45,7 @@
 浮体の動揺や係留索に関連する数値シミュレーションの需要は，今後増えていくと考えられます．
 
 |説明|リンク|
-|:---:|:---:|
+|:---------|-|
 |HywindTanpenはノルウェーにある現在世界最大の浮体式洋上ウィンドファーム|https://www.equinor.com/energy/hywind-tampen|
 |戸田建設は五島福江島にウィンドファームを建設する予定|https://www.toda.co.jp/business/ecology/special/|
 |BW ideolはバージ型浮体の動揺を抑えるダンピングプールの特許を保有するフランス企業|https://bw-ideol.com/en|
