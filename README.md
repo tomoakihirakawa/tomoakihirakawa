@@ -1,13 +1,14 @@
 <details>
-<summary>研究紹介（一時的に書いておきます）</summary>
+<summary>研究紹介</summary>
 
-## 🐋 水環境工学研究室
+### 🐋 水環境工学研究室
 
-渡辺先生の研究グループと平川の研究グループがあります．
+私は，渡辺先生と同じ水環境工学研究室に所属しています．
 
 私の方は，
-***「プログラムを直に扱って流体と物体の相互作用に関する数値解析を行う」***
-方で，下のメンバーがいます．
+***「自分でプログラム作成し，浮体動揺・魚遊泳法・津波など，波と物体の相互作用全般の数値解析を行う」***
+方と思ってください．
+下のメンバーがいます．
 
 * 4年生：5名
 * 修士1年生：1名
@@ -32,42 +33,6 @@
     * 実際に魚のように動くロボットを作成して，その遊泳効率を実験で調べようとしています
     * 魚の学校🐟🐠🐡を数値シミュレーションも行っています
 
-## 👤 自己紹介
-
-- 💻 流体の流れを数値的にシミュレートする研究をしています．海洋の波や流れの計算に興味が湧き，研究を始めました
-- 🛠️ 大学院のときはスペクトル法を学んでいましたが，現在は**境界要素法**と**粒子法**を用いたソフトウェア開発を行っています
-
-理論にも興味はありますが，何よりもまず現実の現象をシミュレートできるソフトを作りたいと思っています．
-
-### 🚢 研究と開発
-
-主に[浮体式洋上風力発電](https://en.wikipedia.org/wiki/Floating_wind_turbine)に関する研究を行っています．
-浮体の動揺や係留索に関連する数値シミュレーションの需要は，今後増えていくと考えられます（最後に関連するリンクを貼っています）．
-
-現在すでに[OrcaFlex](https://www.orcina.com/)や[WAMIT](https://www.wamit.com/)といった商用ソフトウェアがありますが，
-現在の目標は，多くの浮体を含めウィンドファーム全領域をシミュレートできる
-計算手法を提案することと，実用的なソフトウェアを開発することです．
-
-* 境界要素法を使った浮体動揺解析ソフト
-    - 説明 : 境界要素法は，流体の運動方程式を流体境界上で解く手法です 
-    - 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
-    - リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
-
-<table style="border-collapse:collapse;border:2;cellspacing:5;cellpadding:5;">
-<tr>
-<td>
-<img src="sample0.gif" width="220px" alt="Sample 0 Image">
-</td>
-<td>
-<img src="sample1.gif" width="220px" alt="Sample 1 Image">
-</td>
-</tr>
-</table>
-
-* 粒子法を使った流体物体相互作用解析ソフト
-    - 説明 : 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です
-    - 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
-    - リンク : [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)
 
 ### 👩‍💻 数値解析を中心とした研究の魅力
 
@@ -113,6 +78,50 @@
 
 - 📧 Email: hirakawa`at`gipc.akita-u.ac.jp
 - 🌐 Website: [秋田大学研究者総覧](https://akitauinfo.akita-u.ac.jp/html/100000862_ja.html?k=%E5%B9%B3%E5%B7%9D), [researchmap](https://researchmap.jp/tomoakihirakawa) -->
+
+</details>
+
+---
+
+<details>
+<summary>自己紹介</summary>
+
+## 👤 自己紹介
+
+- 💻 流体の流れを数値的にシミュレートする研究をしています．海洋の波や流れの計算に興味が湧き，研究を始めました
+- 🛠️ 大学院のときはスペクトル法を学んでいましたが，現在は**境界要素法**と**粒子法**を用いたソフトウェア開発を行っています
+
+理論にも興味はありますが，何よりもまず現実の現象をシミュレートできるソフトを作りたいと思っています．
+
+### 🚢 研究と開発
+
+主に[浮体式洋上風力発電](https://en.wikipedia.org/wiki/Floating_wind_turbine)に関する研究を行っています．
+浮体の動揺や係留索に関連する数値シミュレーションの需要は，今後増えていくと考えられます（最後に関連するリンクを貼っています）．
+
+現在すでに[OrcaFlex](https://www.orcina.com/)や[WAMIT](https://www.wamit.com/)といった商用ソフトウェアがありますが，
+現在の目標は，多くの浮体を含めウィンドファーム全領域をシミュレートできる
+計算手法を提案することと，実用的なソフトウェアを開発することです．
+
+* 境界要素法を使った浮体動揺解析ソフト
+    - 説明 : 境界要素法は，流体の運動方程式を流体境界上で解く手法です 
+    - 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
+    - リンク : [build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md) 
+
+<table style="border-collapse:collapse;border:2;cellspacing:5;cellpadding:5;">
+<tr>
+<td>
+<img src="sample0.gif" width="220px" alt="Sample 0 Image">
+</td>
+<td>
+<img src="sample1.gif" width="220px" alt="Sample 1 Image">
+</td>
+</tr>
+</table>
+
+* 粒子法を使った流体物体相互作用解析ソフト
+    - 説明 : 粒子法は，粒子の集まりで流体を表現し，流体の運動方程式を解く手法です
+    - 使用言語 : [C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) 
+    - リンク : [build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)
 
 </details>
 
