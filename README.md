@@ -185,6 +185,6 @@
 |🇫🇷 **BW Ideol**はダンピングプールによる動揺抑制技術を特許| [BW Ideol](https://bw-ideol.com/en)|革新的なフランス企業|
 |🇯🇵 **NEDO委託**でバージ型浮体の研究開発が進行| [NEDO](https://www.nedo.go.jp/floating/project.html)|多くの日本企業と研究機関が参加しています|
 |🇺🇸 **NREL**（米国再生可能エネルギー研究所）は，アメリカエネルギー省の研究機関| [NREL](https://www.nrel.gov/wind/offshore-wind.html),[OpenFAST](https://github.com/OpenFAST)|アメリカにおける研究活動|
-|🌍 **多数の企業**が低コスト化を目標に研究開発進行中| [J-Power](https://www.jpower.co.jp/news_release/2023/05/news230530.html)|コスト削減の取り組み|
+|🌍 **多数の企業**が低コスト化を目標に研究開発進行中| [J-Power](https://www.jpower.co.jp/news_release/2023/05/news230530.html)|目標はどこも共通して，低コスト化です|
 
 </details>
