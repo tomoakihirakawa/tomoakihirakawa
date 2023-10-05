@@ -1,6 +1,7 @@
-<details>
 
-研究室紹介のためのものです．
+研究室紹介をしたに書きました．
+
+<details>
 
 <summary>研究紹介</summary>
 
