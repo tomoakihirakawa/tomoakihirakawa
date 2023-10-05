@@ -109,11 +109,15 @@
 </tr>
 <tr>
 <td>使用言語</td>
-<td>[C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) </td>
+<td>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
+<a href="https://www.python.org/">python</a>
+</td>
 </tr>
 <tr>
 <td>リンク</td>
-<td>[build_bem](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md)</td>
+<td>
+<a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_bem/README.md">build_bem</a>
 </tr>
 </table>
 
@@ -137,11 +141,14 @@
 </tr>
 <tr>
 <td>使用言語</td>
-<td>[C++](https://en.wikipedia.org/wiki/C%2B%2B), [python](https://www.python.org/) </td>
+<td>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
+<a href="https://www.python.org/">python</a>
+</td>
 </tr>
 <tr>
 <td>リンク</td>
-<td>[build_sph](https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md)</td>
+<a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md">build_sph</a>
 </tr>
 </table>
 
