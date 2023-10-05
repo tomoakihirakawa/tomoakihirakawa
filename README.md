@@ -129,7 +129,7 @@
 <tr>
 <td>使用言語</td>
 <td>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>，
 <a href="https://www.python.org/">python</a>
 </td>
 </tr>
@@ -167,7 +167,7 @@
 <tr>
 <td>使用言語</td>
 <td>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>，
 <a href="https://www.python.org/">python</a>
 </td>
 </tr>
