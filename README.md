@@ -180,7 +180,7 @@
 |:----------------|:-------|:-----|
 |🇯🇵 **秋田県南部沖**で実証事業の候補地に選定！| [YouTube](https://www.youtube.com/watch?v=b8zqJr4L4MI), [NHK](https://www3.nhk.or.jp/lnews/akita/20231003/6010019188.html)|日本国内での取り組み|
 |🏴󠁧󠁢󠁳󠁣󠁴󠁿 **スコットランドのグリーンエネルギー**が日本に進出| [YouTube](https://www.youtube.com/watch?v=oPx5OxBef0A)|外国の取り組み．１GWはおよそ原発１機分の出力です|
-|🇳🇴 **Hywind Tampen**は世界最大の浮体式洋上ウィンドファーム| [Equinor](https://www.equinor.com/energy/hywind-tampen)|Equinorは以前「Statoil」という石油関連企業でしたが脱酸素に向け社名を変更しました|
+|🇳🇴 **Hywind Tampen**は世界最大の浮体式洋上ウィンドファーム| [Equinor](https://www.equinor.com/energy/hywind-tampen)|Equinorは以前「Statoil」という石油関連企業でしたが，2018年脱酸素に向け社名を変更しました|
 |🇯🇵 **戸田建設**、五島福江島にウィンドファーム建設予定| [Toda Corp](https://www.toda.co.jp/business/ecology/special/)|国内企業による新規プロジェクト|
 |🇫🇷 **BW Ideol**はダンピングプールによる動揺抑制技術を特許| [BW Ideol](https://bw-ideol.com/en)|革新的なフランス企業|
 |🇯🇵 **NEDO委託**でバージ型浮体の研究開発が進行| [NEDO](https://www.nedo.go.jp/floating/)|科学研究による進展|
