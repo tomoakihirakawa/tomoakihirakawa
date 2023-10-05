@@ -177,10 +177,10 @@
 
 ---
 
-<!-- <details>
-<summary>  -->
+<details>
+<summary> 
 ### 🌏世界の浮体式洋上風力発電のプロジェクト一覧🍃
-<!-- </summary> -->
+</summary>
 
 |プロジェクト詳細🌟|リンク🔗|備考📝|
 |:----------------|:-------|:-----|
@@ -193,4 +193,4 @@
 |🇺🇸 **NREL**（米国再生可能エネルギー研究所）は，アメリカエネルギー省の研究機関| [NREL](https://www.nrel.gov/wind/offshore-wind.html),[OpenFAST](https://github.com/OpenFAST)|アメリカにおける研究活動|
 |🌍 **多数の企業**が低コスト化を目標に研究開発進行中| [J-Power](https://www.jpower.co.jp/news_release/2023/05/news230530.html)|目標はどこも共通して，低コスト化です|
 
-<!-- </details> -->
+</details>
