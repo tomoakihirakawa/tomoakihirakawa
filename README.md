@@ -3,7 +3,7 @@
 
 <details>
 
-<summary> ☕️ 研究紹介</summary>
+<summary> ☕️ 研究紹介（click）</summary>
 
 ### 🐋 水環境工学研究室
 
@@ -102,7 +102,7 @@
 ---
 
 <details>
-<summary>👤 自己紹介</summary>
+<summary>👤 自己紹介（click）</summary>
 
 ### 👤 自己紹介
 
@@ -179,7 +179,7 @@
 
 <details>
 <summary> 
-🌏世界の浮体式洋上風力発電のプロジェクト一覧🍃
+🌏世界の浮体式洋上風力発電のプロジェクト一覧🍃（click）
 </summary>
 
 |プロジェクト詳細🌟|リンク🔗|備考📝|
