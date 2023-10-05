@@ -148,7 +148,9 @@
 </tr>
 <tr>
 <td>リンク</td>
+<td>
 <a href="https://github.com/tomoakihirakawa/cpp/blob/main/builds/build_sph/README.md">build_sph</a>
+</td>
 </tr>
 </table>
 
