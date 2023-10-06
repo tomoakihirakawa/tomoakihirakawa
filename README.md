@@ -1,6 +1,4 @@
 
-下に紹介を書いています（2023/10/05）
-
 <details>
 
 <summary> ☕️ 研究紹介（click）</summary>
