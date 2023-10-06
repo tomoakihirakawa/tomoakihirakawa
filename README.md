@@ -190,6 +190,7 @@
 
 |プロジェクト詳細🌟|リンク🔗|備考📝|
 |:----------------|:-------|:-----|
+|🇯🇵 **国土交通省のサイト**！|[国土交通省](https://www.mlit.go.jp/kowan/index.html)|
 |🇯🇵 **秋田県南部沖**で実証事業の候補地に選定！| [YouTube](https://www.youtube.com/watch?v=b8zqJr4L4MI), [NHK](https://www3.nhk.or.jp/lnews/akita/20231003/6010019188.html)|日本国内での取り組み|
 |🏴󠁧󠁢󠁳󠁣󠁴󠁿 **スコットランドのグリーンエネルギー**が日本に進出| [YouTube](https://www.youtube.com/watch?v=oPx5OxBef0A)|外国の取り組み．１GWはおよそ原発１機分の出力です|
 |🇳🇴 **Hywind Tampen**は世界最大の浮体式洋上ウィンドファーム| [Equinor](https://www.equinor.com/energy/hywind-tampen)|Equinorは以前「Statoil」という石油関連企業でしたが，2018年脱酸素に向け社名を変更しました|
