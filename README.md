@@ -1,1 +1,1 @@
-[☕️ 研究テーマなど](https://tomoakihirakawa.github.io/tomoaki.github.io/)
+[🐋研究テーマ](https://tomoakihirakawa.github.io/tomoaki.github.io/)
