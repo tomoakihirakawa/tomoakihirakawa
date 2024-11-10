@@ -1,1 +1,1 @@
-[🐋研究テーマ](https://tomoakihirakawa.github.io/tomoaki.github.io/)
+<img src="./sample_Goring1979.gif">
